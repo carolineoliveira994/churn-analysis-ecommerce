@@ -50,8 +50,6 @@ https://github.com/carolineoliveira994/churn-analysis-ecommerce
 ---
 
 Esse projeto foi importante pra mim porque mostra uma coisa simples:
-
-👉 dados não servem só pra mostrar números
-👉 servem pra explicar comportamento
+dados não servem só pra mostrar números servem pra explicar comportamento
 
 #DataAnalytics #ChurnAnalysis #Python #Pandas #Plotly #DataScience #Portfolio
