@@ -15,7 +15,6 @@ Ou seja:
 os usuários não estão desistindo na compra —
 eles não chegam nem a demonstrar intenção real.
 
----
 
 🔍 Principais descobertas:
 
@@ -24,7 +23,6 @@ eles não chegam nem a demonstrar intenção real.
 • Quem compra tende a permanecer
 • O verdadeiro gargalo está na conversão inicial
 
----
 
 💡 Insight mais importante:
 
@@ -32,7 +30,6 @@ Churn não é um problema de retenção no final da jornada.
 
 É um problema de **engajamento no começo**.
 
----
 
 🚀 O que isso significa na prática?
 
@@ -42,12 +39,10 @@ Se eu estivesse olhando isso dentro de uma empresa, focaria em:
 • personalizar a experiência inicial
 • incentivar primeiras ações (primeiro carrinho / primeira compra)
 
----
 
 📂 Projeto completo no GitHub:
 https://github.com/carolineoliveira994/churn-analysis-ecommerce
 
----
 
 Esse projeto foi importante pra mim porque mostra uma coisa simples:
 dados não servem só pra mostrar números servem pra explicar comportamento
